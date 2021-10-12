@@ -1106,6 +1106,13 @@ p {
   margin-left: auto;
 }
 
+.image-3 {
+  display: block;
+  max-width: 20%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 @media screen and (max-width: 991px) {
   .button.in-pricing {
     font-size: 14px;
